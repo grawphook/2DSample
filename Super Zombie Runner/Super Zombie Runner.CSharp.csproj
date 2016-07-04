@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\AnimatedTexture.cs" />
     <Compile Include="Assets\Scripts\InstantVelocity.cs" />
     <Compile Include="Assets\Scripts\PixelPerfectCamera.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\TiledBackground.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
